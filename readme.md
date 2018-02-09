@@ -1,6 +1,6 @@
 # PopStar Solver
 * Actually this is not just a 'solver' for PopStar games, it is a framework of the entire game concept, including several useful game state estiamte functions and a fully playable OpenGL implementation. 
-![Screenshot of the program](https://imgur.com/lSdR77z)
+![Screenshot of the program](Screenshot.png)
 If you are not familiar with PopStar, I suppose you can know more by downloading and playing it yourself. The Google Play link to one of the many PopStar games is right below:
 (https://play.google.com/store/apps/details?id=com.stevenjou.popstar)
 
